@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++   -I/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/include    -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/ishaan/Valgrind_ex/cpp-boilerplate-v2/app/AnalogSensor.cpp",
+  "file": "/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/app/AnalogSensor.cpp"
+},
+{
+  "directory": "/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/build/app",
+  "command": "/usr/bin/c++   -I/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/include    -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/ishaan/Valgrind_ex/cpp-boilerplate-v2/app/main.cpp",
+  "file": "/home/ishaan/Valgrind_ex/cpp-boilerplate-v2/app/main.cpp"
+}
+]
