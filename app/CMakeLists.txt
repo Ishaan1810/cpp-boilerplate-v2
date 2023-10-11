@@ -13,5 +13,5 @@ target_include_directories(shell-app PUBLIC
   ${CMAKE_SOURCE_DIR}/include
 )
 
-# Use static linking to create a stand-alone executable.
-target_link_options(shell-app PUBLIC --static)
+# # Use static linking to create a stand-alone executable.
+# target_link_options(shell-app PUBLIC --static)
